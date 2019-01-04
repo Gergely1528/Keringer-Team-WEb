@@ -1,0 +1,19 @@
+{
+  "name": "keringer-team-web",
+  "version": "1.0.0",
+  "description": "NodeJS React Apollo GraphQL JWT MongoDB",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gergely1528/Keringer-Team-Web.git"
+  },
+  "author": "Szabó Gergely",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gergely1528/Keringer-Team-Web/issues"
+  },
+  "homepage": "https://github.com/Gergely1528/Keringer-Team-Web#readme"
+}
