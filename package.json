@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Gergely1528/Keringer-Team-Web/issues"
   },
-  "homepage": "https://github.com/Gergely1528/Keringer-Team-Web#readme"
+  "homepage": "https://github.com/Gergely1528/Keringer-Team-Web#readme",
+  "devDependencies": {
+    "webpack": "^4.28.3"
+  }
 }
