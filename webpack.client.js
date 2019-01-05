@@ -1,6 +1,6 @@
 const path = require('path');
 const webConfig = require('./webConfig');
-const CopyWebpackPlugin = require('copy-webpack-plugin');
+
 
 module.exports = {
     
